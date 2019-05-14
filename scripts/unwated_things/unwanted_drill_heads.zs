@@ -1,0 +1,12 @@
+recipes.remove(<f0-resources:item_drill_head.f0r.copper>);
+recipes.remove(<f0-resources:item_drill_head.f0r.tin>);
+recipes.remove(<f0-resources:item_drill_head.f0r.silver>);
+recipes.remove(<f0-resources:item_drill_head.f0r.lead>);
+recipes.remove(<f0-resources:item_drill_head.f0r.aluminum>);
+recipes.remove(<f0-resources:item_drill_head.f0r.nickel>);
+recipes.remove(<f0-resources:item_drill_head.f0r.platinum>);
+recipes.remove(<f0-resources:item_drill_head.f0r.steel>);
+recipes.remove(<f0-resources:item_drill_head.f0r.electrum>);
+recipes.remove(<f0-resources:item_drill_head.f0r.constantan>);
+recipes.remove(<f0-resources:item_drill_head.f0r.bronze>);
+recipes.remove(<f0-resources:item_drill_head.f0r.invar>);

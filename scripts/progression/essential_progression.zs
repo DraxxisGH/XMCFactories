@@ -1,0 +1,2 @@
+recipes.addShaped(<researchtable:table>, [[null, <minecraft:stone>, <minecraft:stone>],[<minecraft:stone>, <minecraft:stone>, null], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
+recipes.addShaped(<projectred-core:resource_item:400>, [[<immersiveengineering:material:1>, <projectred-core:resource_item:100>, null],[<projectred-core:resource_item:100>, <projectred-core:resource_item:100>, <projectred-core:resource_item:100>], [null, <projectred-core:resource_item:100>, <immersiveengineering:material:1>]]);
